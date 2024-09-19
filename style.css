@@ -42,7 +42,7 @@ body {
   }
   
   .back {
-    background: linear-gradient(to bottom right, #105561, #0ed7e9);    transform: translateZ(-100px) rotateY(180deg);
+    background: linear-gradient(to bottom right, pink, #0ed7e9);    transform: translateZ(-100px) rotateY(180deg);
   }
   
   .right {
